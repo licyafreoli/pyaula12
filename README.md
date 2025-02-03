@@ -7,7 +7,7 @@ Este repositório contém um conjunto de atividades práticas em Python, focadas
 ### Activity 01: Hierarchy of Geometric Shapes
 **File**: activity01/main.py  
 **Description**:  
-Nesta atividade, criamos uma hierarquia de classes para representar formas geométricas. A classe base é chamada `Forma`, e as classes derivadas são `Círculo` e `Retângulo`. Para cada uma dessas classes, métodos são implementados para calcular a área e o perímetro.
+Nesta atividade, criamos uma hierarquia de classes para representar formas geométricas. A classe base é chamada `Forma`, e as classes derivadas são `Círculo`, `Retângulo` e `Quadrado`. Para cada uma dessas classes, métodos são implementados para calcular a área e o perímetro.
 
 ### Activity 02: Vehicle Hierarchy
 **File**: activity02/main.py  
